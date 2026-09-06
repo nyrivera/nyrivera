@@ -10,6 +10,11 @@ Former U.S. Postal Inspector · Retired U.S. Coast Guard Officer · Black Hat Sp
 
 <br/>
 
+<a href="https://www.linkedin.com/in/nelsonyrivera"><img src="https://img.shields.io/badge/LinkedIn-Nelson%20Rivera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: Nelson Rivera"></a>
+<a href="https://github.com/nyrivera"><img src="https://img.shields.io/badge/GitHub-@nyrivera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: @nyrivera"></a>
+
+<br/><br/>
+
 ![Threat Intelligence](https://img.shields.io/badge/THREAT%20INTELLIGENCE-0D2740?style=flat-square)
 ![Investigations](https://img.shields.io/badge/INVESTIGATIONS-0D2740?style=flat-square)
 ![Security Engineering](https://img.shields.io/badge/SECURITY%20ENGINEERING-0D2740?style=flat-square)
@@ -63,6 +68,6 @@ Build for the analyst, investigator, and operator who has to use it at 2:00 AM.
 
 ### Security is an operational discipline.
 
-<sub>GitHub: <a href="https://github.com/nyrivera">@nyrivera</a></sub>
+<a href="https://www.linkedin.com/in/nelsonyrivera">LinkedIn</a> · <a href="https://github.com/nyrivera">GitHub</a>
 
 </div>
