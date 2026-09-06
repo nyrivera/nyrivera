@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nelson Rivera — Cybersecurity, Investigations, Innovation</title>
+  <desc id="desc">Executive cybersecurity profile banner in deep navy with cyan and gold accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111F"/>
+      <stop offset="58%" stop-color="#0A1A2D"/>
+      <stop offset="100%" stop-color="#0D2740"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38C6F4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38C6F4" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#C7A765" stop-opacity=".2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="84%" cy="42%" r="42%">
+      <stop offset="0%" stop-color="#38C6F4" stop-opacity=".16"/>
+      <stop offset="100%" stop-color="#38C6F4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#8FC7DD" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#glow)"/>
+
+  <path d="M72 76H495" stroke="#38C6F4" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M72 286H655" stroke="url(#line)" stroke-width="2"/>
+
+  <g fill="none" stroke="#38C6F4" stroke-opacity=".32" stroke-width="2">
+    <path d="M860 78h122l34 34h92"/>
+    <path d="M818 278h154l30-30h110"/>
+    <circle cx="860" cy="78" r="4" fill="#38C6F4"/>
+    <circle cx="1110" cy="112" r="4" fill="#C7A765" stroke="none"/>
+    <circle cx="818" cy="278" r="4" fill="#38C6F4"/>
+    <circle cx="1112" cy="248" r="4" fill="#C7A765" stroke="none"/>
+  </g>
+
+  <g transform="translate(912 112)">
+    <circle cx="88" cy="68" r="88" fill="none" stroke="#38C6F4" stroke-opacity=".18" stroke-width="1"/>
+    <circle cx="88" cy="68" r="70" fill="#07111F" fill-opacity=".45" stroke="#C7A765" stroke-opacity=".38" stroke-width="1.5"/>
+    <path d="M47 98V39h13l55 59V39h14v59h-13L61 40v58z" fill="#E7F2F7"/>
+    <path d="M45 111h86" stroke="#38C6F4" stroke-opacity=".65" stroke-width="2"/>
+  </g>
+
+  <text x="72" y="128" fill="#EAF4F8" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="1.5">NELSON RIVERA</text>
+  <text x="74" y="169" fill="#38C6F4" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="4">CYBERSECURITY • INVESTIGATIONS • INNOVATION</text>
+  <text x="74" y="223" fill="#B8CBD6" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="400">
+    Building operational security capabilities where intelligence,
+  </text>
+  <text x="74" y="254" fill="#B8CBD6" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="400">
+    engineering, and investigations converge.
+  </text>
+
+  <circle cx="74" cy="307" r="3" fill="#C7A765"/>
+  <text x="88" y="313" fill="#7996A7" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2.5">OPERATIONAL • EVIDENCE-DRIVEN • MISSION-FOCUSED</text>
+</svg>
