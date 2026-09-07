@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.jpg" width="100%" alt="Nelson Rivera — Cybersecurity, Investigations, Innovation" />
+<img src="./assets/profile-banner-v2.jpg" width="100%" alt="Nelson Rivera — Cybersecurity, Investigations, Innovation" />
 
 <br/>
 
